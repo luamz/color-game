@@ -1,4 +1,4 @@
-# Guess the Color - The Game
+# Color Game (Guess the Color)
 
 Given a certain RGB number, you have to guess the color based on the amount of Red, Green and Blue.
 
