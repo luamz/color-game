@@ -1,6 +1,6 @@
 # Color Game (Guess the Color)
 
-Given a certain RGB number, you have to guess the color based on the amount of Red, Green and Blue.
+Given a certain RGB number, guess the color based on the amount of Red, Green and Blue.
 
 Project built with Javascript based on the course "The Web Developer Bootcamp" by Colt Steele
 
